@@ -1,0 +1,9 @@
+{
+
+    "require": 
+    {  "php-amqplib/php-amqplib": "^3.5.2",
+       "pragmarx/google2fa": "^",
+       "firebase/php-jwt": "^6.4",
+       "doctrine/dbal": "^2.13"
+    }
+}  
